@@ -1,0 +1,23 @@
+{
+  "name": "zehra_787_game_cli_number_guessing",
+  "version": "2.0.1",
+  "description": "This is cli based number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "zehra_787_game_cli_number_guessing": "^2.0.1",
+    "inquirer": "^9.2.16"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
